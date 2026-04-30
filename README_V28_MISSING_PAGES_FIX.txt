@@ -1,0 +1,1 @@
+V28: Fixed ContractsPage is not defined and added safe pages for contracts, installments, receipts, debts, fiscal years, scholarships, documents, and global search. Delete row enabled for these pages where applicable.

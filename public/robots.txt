@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://strong-pika-e5cca6.netlify.app/sitemap.xml
