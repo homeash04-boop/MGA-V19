@@ -1,0 +1,20 @@
+{
+  "name": "school-portal-v16-complete-build-ready",
+  "private": true,
+  "version": "16.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.75.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "vite": "^7.1.10",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.4"
+  },
+  "devDependencies": {}
+}
