@@ -139,7 +139,6 @@ const AR_LABELS = {
   debit:'مدين',
   credit:'دائن',
   account_type:'نوع الحساب',
-  parent_id:'الحساب الأب',
   entry_no:'رقم القيد',
   entry_date:'تاريخ القيد',
   source_type:'نوع المصدر',
@@ -158,7 +157,7 @@ const AR_LABELS = {
   scholarship_type:'نوع المنحة',
   percent:'النسبة',
   approved_at:'تاريخ الاعتماد',
-  document_type:'نوع الوثيقة',
+ 
   issue_date:'تاريخ الإصدار',
   expiry_date:'تاريخ الانتهاء',
 
@@ -212,7 +211,6 @@ function arValue(value) {
     fixed:'خصم مبلغ',
     percent:'خصم نسبة',
     full:'منحة كاملة',
-    partial:'منحة جزئية',
     male:'ذكر',
     female:'أنثى',
     open:'مفتوحة',
